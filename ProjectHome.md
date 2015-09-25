@@ -1,0 +1,3 @@
+Currently in progress. This engine is designed to support games that are primarily text-based, with optional static images, sound, and music support in a GUI environment. The plan is to bundle an editor along with the engine and use human-readable XML files to store all game information, minimizing the need for coding experience for those who want to create games with the TextGen Engine.
+
+Ideally, the engine will be able to produce games like [Darklands](http://www.mobygames.com/game/dos/darklands) and [King of Dragon Pass](http://www.mobygames.com/game/windows/king-of-dragon-pass), along with many simpler projects like the classic text adventures.
